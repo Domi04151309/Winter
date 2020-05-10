@@ -2,7 +2,7 @@
 
 # Winter
 Winter is a resource pack for Minecraft Java Edition that works as an add-on for other resourcepacks.
-This add-on recolors the game so that it looks like it is autumn. OptiFine is required.
+This add-on recolors the game so that it looks like it is winter. OptiFine is required.
 
 ### Screenshots
 ![Minecraft Screenshot](https://raw.githubusercontent.com/Domi04151309/Winter/master/preview.jpg)
